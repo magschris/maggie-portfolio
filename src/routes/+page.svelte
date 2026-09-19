@@ -1,6 +1,6 @@
 <script>
     import ProjectCard from '$lib/ProjectCard.svelte';
-	import { title } from 'process';
+	// import { title } from 'process';
     const projects = [
         {title: "epilogue.",
         category: "Interactive Data Storytelling",
